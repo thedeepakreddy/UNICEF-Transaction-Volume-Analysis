@@ -37,4 +37,4 @@ The findings have been compiled into an interactive dashboard designed for a div
 * **Reporting:** Microsoft PowerPoint
 
 ## Author
-**Sujit Mudili** *MSc IT for Business Data Analytics* Budapest, Hungary
+**Deepak Reddy** *MSc IT for Business Data Analytics* Budapest, Hungary
